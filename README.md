@@ -1,3 +1,4 @@
 # UAS_JARINGAN KOMPUTER
-# Vinsens Aji Pamungkas
-# 20220803008
+# Nama:    Vinsens Aji Pamungkas
+# NIm:     20220803008
+# Jurusan: Sistem Informasi
