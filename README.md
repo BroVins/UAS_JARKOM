@@ -1,1 +1,3 @@
-# UAS_JARKOM
+# UAS_JARINGAN KOMPUTER
+# Vinsens Aji Pamungkas
+# 20220803008
